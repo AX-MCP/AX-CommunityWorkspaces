@@ -21,7 +21,7 @@ South Asian cuisine encompasses the diverse culinary traditions of India (with v
 - Punjabi: Sarson ka saag, chole, tandoori dishes
 
 ## Recipe Guidelines
-All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../FlavorAtlas_Recipe_Template.md) format and include:
+All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../Templates/FlavorAtlas_Recipe_Template.md) format and include:
 - Specific regional origin within South Asia
 - Spice blend recipes or sourcing recommendations
 - Heat level guidance with chili adjustments
