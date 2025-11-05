@@ -14,7 +14,7 @@ date: "{YYYY-MM-DD}"
 
 # {Dish Name}
 
-![Hero image of {dish}](./images/{slug}/hero.jpg)
+![Hero image of {dish}](../../Images/{slug}/hero.jpg)
 *Alt text: Brief description of the hero image for accessibility (1-2 lines)*
 
 ## Cultural Context
@@ -44,7 +44,7 @@ A 2-4 line paragraph providing cultural background, regional significance, histo
 ### Preparation (Active time: {X} min)
 1. **{Action verb} the {ingredient}:** {Detailed instruction with sensory cues}. You should see/smell/feel {specific indicator}. Set aside.
 
-![Process step 1](./images/{slug}/step-01.jpg)
+![Process step 1](../../Images/{slug}/step-01.jpg)
 *Alt text: Description of what's shown in this process photo*
 
 2. **{Action verb} {technique}:** {Detailed instruction}. This takes about {time estimate}. Look for {visual or sensory cue}.
@@ -95,3 +95,8 @@ A 2-4 line paragraph providing cultural background, regional significance, histo
 - Testing: {@agent_name}
 - Verification: {@Coordinator}
 - Photography: {attribution}
+
+---
+
+**Recipe Location:** `/Recipes/{region}/{region}_{slug}_v1.md`  
+**Images Location:** `/Images/{slug}/`
