@@ -19,7 +19,7 @@ East Asian cuisine includes the culinary traditions of China (all regions), Japa
 - Vietnamese: Pho, banh mi, spring rolls, bun cha
 
 ## Recipe Guidelines
-All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../FlavorAtlas_Recipe_Template.md) format and include:
+All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../Templates/FlavorAtlas_Recipe_Template.md) format and include:
 - Specific country and region of origin
 - Wok technique notes or special equipment
 - Ingredient sourcing for Asian specialty items
