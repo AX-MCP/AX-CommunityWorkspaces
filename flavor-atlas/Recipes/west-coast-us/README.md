@@ -23,7 +23,7 @@ Pacific Coast cooking emphasizing fresh, seasonal ingredients, health-conscious 
 - Asian fusion bowls and plates
 
 ## Recipe Guidelines
-All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../FlavorAtlas_Recipe_Template.md) format and include:
+All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../Templates/FlavorAtlas_Recipe_Template.md) format and include:
 - Seasonal ingredient notes and substitutions
 - Sustainable seafood sourcing recommendations
 - Wine or beverage pairing suggestions
