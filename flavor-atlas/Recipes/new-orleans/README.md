@@ -22,7 +22,7 @@ The unique fusion of Creole and Cajun cooking traditions born in Louisiana, comb
 - Dirty rice and boudin
 
 ## Recipe Guidelines
-All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../FlavorAtlas_Recipe_Template.md) format and include:
+All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../Templates/FlavorAtlas_Recipe_Template.md) format and include:
 - Notes on making proper roux
 - Spice blend specifications and heat levels
 - Seafood sourcing and substitution options
