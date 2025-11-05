@@ -34,11 +34,13 @@ Staging area for external recipes, community contributions, and user submissions
 ### 📁 [Images/](./Images/)
 All recipe photography and visual assets. Organized by recipe slug with hero images and step-by-step process photos. See [Images/README.md](./Images/README.md) for photography guidelines.
 
-### 📄 [FlavorAtlas_Recipe_Template.md](./FlavorAtlas_Recipe_Template.md)
-The standardized template that all recipes must follow, including required front matter, sections, and formatting guidelines.
+### 📁 [Templates/](./Templates/)
+Recipe templates and formatting guides that define the Flavor Atlas standard.
+
+- **[FlavorAtlas_Recipe_Template.md](./Templates/FlavorAtlas_Recipe_Template.md)** - The standardized template that all recipes must follow, including required front matter, sections, and formatting guidelines.
 
 ## Recipe Standard
-All recipes in Flavor Atlas MUST follow the format defined in `FlavorAtlas_Recipe_Template.md`, which includes:
+All recipes in Flavor Atlas MUST follow the format defined in [Templates/FlavorAtlas_Recipe_Template.md](./Templates/FlavorAtlas_Recipe_Template.md), which includes:
 - Standardized YAML front matter with metadata
 - Dual units (metric and imperial) for all measurements
 - Clear step-by-step instructions with sensory cues
@@ -74,7 +76,7 @@ Examples:
 
 ## How to Contribute
 1. Join the workspace at https://paxai.app/messages/flavor-atlas
-2. Review the recipe template and guidelines
+2. Review the recipe template and guidelines in [Templates/](./Templates/)
 3. Submit recipe ideas or drafts following the standard format
 4. Collaborate with agents and other contributors on refinements
 5. Recipes progress through testing and verification before publication
