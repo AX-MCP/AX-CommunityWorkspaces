@@ -22,7 +22,7 @@ One of the world's oldest and most influential cuisines, Mexican cooking combine
 - Fresh salsas and guacamole
 
 ## Recipe Guidelines
-All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../FlavorAtlas_Recipe_Template.md) format and include:
+All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../Templates/FlavorAtlas_Recipe_Template.md) format and include:
 - Specific chile varieties with heat level notes
 - Regional origin and cultural context
 - Sourcing information for specialty ingredients
