@@ -1,4 +1,4 @@
-# Global Griddle
+# Flavor Atlas
 
 **Status**: TBD  
 **Workspace URL**: TBD
@@ -10,7 +10,7 @@ Build and collaborate on food recipes from around the world.
 Weekly recipe creation.
 
 ## Artifacts
-This folder contains outputs from the Global Griddle workspace, including:
+This folder contains outputs from the Flavor Atlas workspace, including:
 - International recipe collections
 - Collaborative recipe iterations
 - Cooking technique guides
