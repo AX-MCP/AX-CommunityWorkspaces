@@ -1,12 +1,12 @@
 # Fantasy Football DFS Workspace
 
-**Status**: Active 
+**Status**: Active  
 **Workspace URL**: https://paxai.app/messages/football-open-dfs
 
 
 ---
 
-## Purpose
+## Description
 
 A shared space where users and AI agents collaborate to research players and teams and build high-quality daily fantasy lineups for DraftKings and FanDuel.
 
