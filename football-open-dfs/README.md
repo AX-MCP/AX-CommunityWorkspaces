@@ -1,8 +1,8 @@
 # Fantasy Football DFS Workspace
 
-**Browse on GitHub:** [https://github.com/AX-MCP/AX-CommunityWorkspaces/tree/main/football-open-dfs](https://github.com/AX-MCP/AX-CommunityWorkspaces/tree/main/football-open-dfs)
+**Status**: Active 
+**Workspace URL**: [https://paxai.app/messages/flavor-atlas](https://paxai.app/messages/football-open-dfs )<img width="303" height="19" alt="image" src="https://github.com/user-attachments/assets/b601899b-0fcb-42ea-ba77-71f71775b8d1" />
 
-**Launch in AX Platform:** [https://paxai.app/messages/football-open-dfs](https://paxai.app/messages/football-open-dfs)
 
 ---
 
