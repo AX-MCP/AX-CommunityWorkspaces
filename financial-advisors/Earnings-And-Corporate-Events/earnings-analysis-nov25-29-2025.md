@@ -1,254 +1,375 @@
 # Earnings & Corporate Events Analysis
-## Week of November 25-29, 2025
+**Week of November 25 - December 4, 2025**
 
-**Report Date:** November 20, 2025
-**Analysis Period:** Week of November 25-29, 2025 & Recent Q3/Q4 2025 Highlights
-
----
-
-## 📅 Upcoming Earnings Calendar: Week of November 25-29, 2025
-
-### Monday, November 25, 2025
-
-The week features a concentration of major earnings releases on Monday, November 25th, as the market enters the Thanksgiving holiday period (with U.S. markets closed or operating on shortened hours November 27-28).
-
-#### **Major S&P 500 Companies Reporting:**
-
-| Company | Ticker | Sector | Report Time |
-|---------|--------|--------|-------------|
-| **Dell Technologies** | DELL | Technology | Before Market Open |
-| **HP Inc.** | HPQ | Technology | After Market Close |
-| **Best Buy** | BBY | Consumer Electronics | Before Market Open |
-| **Workday** | WDAY | Cloud/SaaS | After Market Close |
-| **Autodesk** | ADSK | Software | After Market Close |
-| **Analog Devices** | ADI | Semiconductors | Before Market Open |
-| **Dick's Sporting Goods** | DKS | Retail | Before Market Open |
-| **Kohl's** | KSS | Retail | Before Market Open |
-| **Urban Outfitters** | URBN | Retail | After Market Close |
-
-#### **Additional Notable Companies:**
-- **Zoom Communications** (ZM) - Monday, November 24th
-- **Alibaba** (BABA), **Nio** (NIO), **Petco** (WOOF) - November 25th
+*Report Generated: November 21, 2025*
 
 ---
 
-## 📊 Recent Earnings Highlights: Key Takeaways
+## Executive Summary
 
-### **Technology & AI Sector**
+This report provides a comprehensive analysis of major earnings releases scheduled for the week of November 25, 2025, through early December, along with key takeaways from recent impactful earnings calls and notable corporate actions including dividends and stock splits.
 
-#### **Nvidia (NVDA)** - Q4 2025
-**Performance:** Exceptional growth continues, though momentum moderating
-- **Blackwell Revenue:** Exceeded $11 billion, marking the fastest product ramp in company history
-- **Guidance:** Strong forward outlook issued, surpassing analyst expectations
-- **Trend:** Revenue and earnings growth remain robust, though not matching the extraordinary pace of prior quarters
-- **Market Impact:** Continues to dominate AI infrastructure buildout across hyperscalers
-
-#### **Apple (AAPL)** - Q4 2025
-**Performance:** Record September quarter revenue
-- **Revenue:** $102.5 billion, setting a new September quarter record and beating analyst expectations
-- **iPhone Performance:** CEO Tim Cook noted demand for iPhone 17 models is "off the chart" with record upgrader activity
-- **Challenge:** China revenue declined to $14.5B (down from $15B YoY), missing estimates of ~$16.4B
-- **Tariff Impact:** Incurred $1.1B in tariff-related costs in Q4; expects $1.4B in Q1 2026
-
-#### **Qualcomm (QCOM)** - Q4 FY2025
-**Performance:** Strong beat across all segments
-- **EPS:** $3.00 vs. $2.87 expected (4.5% beat)
-- **Automotive Milestone:** Record quarterly automotive revenues exceeding $1 billion for the first time
-- **Broad Strength:** All three QCT revenue streams exceeded expectations
-- **AI Integration:** Benefiting from on-device AI chip demand across mobile and automotive
+### Key Highlights:
+- **Thanksgiving Week Recap**: Major earnings from Nvidia, Walmart, and Target showed divergent consumer trends
+- **Upcoming Week**: Focus shifts to Chinese tech (Alibaba, Nio) and energy sectors
+- **Early December**: Build-A-Bear, UP Fintech, and BETA Technologies among notable reporters
+- **Corporate Actions**: Several stock splits announced, including ServiceNow's 5-for-1 split
 
 ---
 
-### **Retail Sector: Tale of Two Retailers**
+## Part 1: Upcoming Earnings Releases (Nov 25 - Dec 4, 2025)
 
-#### **Walmart (WMT)** - Q3 FY26 (Announced Nov. 20, 2025)
-**Performance:** Outstanding results, raising full-year guidance
+### Week of November 25-29, 2025
 
-**Financial Results:**
-- **Revenue:** $179.5 billion, up 5.8% YoY (beat expectations)
-- **EPS:** $0.62 (non-GAAP), 3.2% above consensus estimates
-- **E-commerce:** Double-digit growth continues
+#### **Monday, November 25, 2025**
 
-**Updated Guidance (RAISED):**
-- Full-year net sales: 4.8%-5.1% growth (up from prior 3.75%-4.75%)
-- Adjusted EPS: $2.58-$2.63 (up from $2.52-$2.62)
+**Before Market Open:**
+- **Alibaba Group (NYSE: BABA)** - Q3 2025 Results
+  - Timing: Before U.S. market opens
+  - Focus: E-commerce performance, cloud computing growth, international expansion
 
-**Key Trends:**
-- Gaining high-income customers seeking value
-- Strong grocery and health/wellness categories
-- Consumer dollars shifting toward necessities over discretionary spending
+- **Nio Inc. (NYSE: NIO)** - Q3 2025 Results
+  - Timing: Before U.S. market opens
+  - Focus: EV deliveries, battery swap technology adoption, margin improvements
 
----
+**After Market Close:**
+- **Safe Bulkers, Inc. (NYSE: SB)** - Q3 2025 Results
+  - Conference Call: November 26, 2025 at 10:00 AM ET
+  - Focus: Shipping rates, fleet utilization, dry bulk market conditions
 
-#### **Target (TGT)** - Q3 2025 (Announced Nov. 19, 2025)
-**Performance:** Disappointing results, guidance cut
+#### **Tuesday, November 26, 2025**
 
-**Financial Results:**
-- **Net Sales:** Down 1.5% vs. 2024
-- **Comparable Sales:** Declined 2.7%
-- **Adjusted EPS:** $1.78, down 4% YoY
-- **Digital Sales:** +2.4% comp growth (bright spot), with >35% growth in same-day delivery
+- **StoneX Group Inc. (NASDAQ: SNEX)** - Fiscal Q4 2025 Conference Call
+  - Timing: 9:00 AM ET (Results released Nov 24)
+  - Focus: Trading volumes, commodities exposure, market volatility impact
 
-**Guidance:** Full-year profit guidance CUT
+#### **Wednesday-Friday, November 27-29, 2025**
 
-**Challenges:**
-- Softer consumer demand in discretionary categories
-- Losing ground to Walmart in the value perception battle
-
-**Investments:**
-- ~$5B planned CapEx for new stores, remodels, technology, and digital fulfillment
+*Light earnings week due to Thanksgiving holiday in the United States*
 
 ---
 
-#### **Best Buy (BBY)** - Q3 FY2025 (Announced Nov. 26, 2024)
-**Performance:** Sales decline despite margin resilience
+### Early December 2025
 
-**Financial Results:**
-- **Net Income:** $273M ($1.26/share) vs. $263M ($1.21/share) YoY
-- **Revenue:** $9.45B vs. $9.76B YoY (missed $9.63B estimate)
-- **EPS:** $1.26 adjusted vs. $1.29 expected (miss)
-- **Comparable Sales:** Down 2.9% (missed guidance of ~-1%)
+#### **Monday, December 2, 2025**
 
-**Key Metrics:**
-- Operating margin held at 3.7%
-- Online sales: $2.7B (31% of domestic revenue)
+- **BW LPG Limited** - Q3 2025 Results
+  - Timing: 07:00 CET / 01:00 EST / 14:00 SGT
+  - Management: CEO Kristian Sørensen and CFO Samantha Xu
+  - Focus: LPG shipping rates, vessel utilization, energy market trends
 
-**Outlook:** FY2025 revenue guidance: $41.1B-$41.5B
+#### **Wednesday, December 4, 2025**
 
-**Challenges:**
-- Softer-than-forecasted consumer demand
-- Macro uncertainty driving customers to wait for deals
-- Consumer electronics discretionary spending pressured
+**Before Market Open:**
 
----
+1. **Build-A-Bear Workshop (NYSE: BBW)** - Fiscal Q3 2025
+   - Period: Quarter ended November 1, 2025
+   - Focus: Holiday season trends, store traffic, e-commerce growth
 
-## 📈 Market Context: Q3/Q4 2025 Earnings Season Overview
+2. **UP Fintech Holding Limited (NASDAQ: TIGR)** - Q3 2025 Results
+   - Period: Quarter ended September 30, 2025
+   - Conference Call: 8:00 AM ET
+   - Focus: Trading volumes, user growth, international expansion
 
-### **Overall S&P 500 Performance:**
-- **Q4 2025 EPS Growth:** Expected at 16.4% - the highest growth rate in three years
-- **Q3 2025 Actual:** Blended earnings growth of 13.1% YoY (significantly exceeded initial 7.9% projections)
-- **Beat Rate:** Strong corporate execution with majority of companies beating lowered estimates
-
-### **Key Sector Themes:**
-
-#### **AI-Driven Growth:**
-- Technology companies with AI exposure continue to outperform
-- Infrastructure spending (chips, cloud, data centers) remains robust
-- Growth stocks significantly outperforming value stocks
-
-#### **Consumer Bifurcation:**
-- **Value-focused retailers** (Walmart) thriving as consumers become price-conscious
-- **Premium/discretionary retailers** (Target, Best Buy) facing headwinds
-- High-income consumers trading down to value retailers
-- Necessities outperforming discretionary categories
-
-#### **Tariff Pressures:**
-- Companies facing increasing tariff-related costs (Apple: $1.1B in Q4, $1.4B expected in Q1)
-- Supply chain management becoming critical differentiator
+3. **BETA Technologies (BETA)** - Q3 2025 Results
+   - Conference Call: 8:30 AM ET
+   - Focus: Electric aviation development, order book, certification progress
 
 ---
 
-## 💼 Corporate Actions & Notable Events
+## Part 2: Recent Earnings Call Highlights & Key Takeaways
 
-### **Stock Splits**
+### Thanksgiving Week 2025 Recap (November 17-21)
 
-#### **Completed in 2024-2025:**
-- **ServiceNow:** Announced 5-for-1 stock split
-- **Netflix:** Executed forward stock split (from 2024 records)
-- **Aditxt Inc. (ADTX):** 1-for-113 reverse stock split (effective Nov. 3, 2025)
+The week of November 17-21, 2025 featured critical earnings reports from major retailers and technology companies, providing insights into consumer health, AI infrastructure demand, and holiday season expectations.
 
-#### **2025 Stock Split Activity:**
-- First half of 2024 saw 168 stock split announcements - the highest level in the past decade
-- Momentum continued into 2025 with several high-profile splits
+#### **Major Companies Reporting:**
 
-#### **Potential 2025 Split Candidates:**
-Companies with high nominal share prices that could announce splits:
-- **Fair Isaac (FICO):** Trading around $1,550 (hasn't split since 2004)
-- **S&P Global (SPGI):** Management transition could trigger consideration for split in early 2025
-- **Microsoft (MSFT)** and **Meta Platforms (META):** Market speculation but no announcements
+**Tuesday, November 18:**
+- Home Depot (HD)
+- Medtronic (MDT)
+- Baidu (BIDU)
+- PDD Holdings (PDD)
 
-### **Dividends & Distributions**
+**Wednesday, November 19:**
+- Nvidia (NVDA)
+- TJX Companies (TJX)
+- Palo Alto Networks (PANW)
+- Lowe's Companies (LOW)
+- Target (TGT)
+- Williams-Sonoma (WSM)
 
-*Note: Specific dividend announcements for November 2025 were limited during this reporting period. Most major companies maintain regular quarterly dividend schedules with announcements typically made closer to ex-dividend dates.*
+**Thursday, November 20:**
+- Walmart (WMT)
+- Intuit (INTU)
+- Ross Stores (ROST)
+- Gap (GAP)
 
-### **Other Corporate Actions**
-
-#### **Upcoming Earnings to Watch (Early December):**
-- **CrowdStrike (CRWD):** Dec. 2, 2025 (Fiscal Q3 2026) - EPS estimate $0.94
-- **Salesforce (CRM):** Dec. 3, 2025 (Q3 FY26) - EPS estimate $2.86, Revenue estimate $10.27B
-
-Both companies will provide important insights into enterprise software spending and cybersecurity budgets heading into 2026.
-
----
-
-## 🎯 Key Investment Themes & Takeaways
-
-### **1. AI Revolution Continues**
-The AI infrastructure buildout remains in full force with Nvidia's Blackwell achieving record ramp, Qualcomm gaining traction in automotive and edge AI, and enterprise adoption accelerating. This theme shows no signs of slowing into 2026.
-
-### **2. Consumer Spending Polarization**
-- **Value-focused shopping:** Even affluent consumers trading down to save on necessities
-- **Discretionary pressure:** Electronics, non-essential retail facing demand challenges
-- **Winners:** Retailers with strong value proposition and grocery exposure
-- **Losers:** Mid-tier and premium retailers without differentiation
-
-### **3. Margin Resilience Despite Challenges**
-Despite revenue pressures, many companies (like Best Buy) are maintaining operating margins through:
-- Cost discipline
-- Supply chain optimization
-- Strategic pricing
-- Productivity improvements
-
-### **4. Tariff Impact Accelerating**
-Tariff costs are becoming a more significant headwind, with Apple's $1.4B expected impact in Q1 2026 highlighting the magnitude. Companies with diversified supply chains and pricing power will navigate better.
-
-### **5. Holiday Season Critical**
-The week of November 25th kicks off the crucial holiday shopping season. Earnings calls from Best Buy, Dell, HP, and Workday will provide important color on:
-- Black Friday/Cyber Monday expectations
-- Consumer electronics demand
-- Enterprise IT spending into year-end
-- 2026 guidance setting
+**Friday, November 21:**
+- BJ's Wholesale Club (BJ)
 
 ---
 
-## 📅 Looking Ahead: December 2025
+### 🌟 Spotlight: Most Impactful Earnings Calls
 
-### **Key Dates to Watch:**
-- **Dec. 2:** CrowdStrike earnings (cybersecurity sector pulse check)
-- **Dec. 3:** Salesforce earnings (enterprise software spending trends)
-- **Early Dec:** Major retailers will report Black Friday/Cyber Monday preliminary results
+#### **1. Nvidia (NVDA) - November 19, 2025**
 
-### **Questions for Upcoming Calls:**
-1. How did Black Friday/Cyber Monday perform vs. expectations?
-2. What are enterprise IT budget trends for 2026?
-3. How are companies managing tariff impacts?
-4. Is consumer electronics demand stabilizing or continuing to deteriorate?
-5. What's the state of AI spending across enterprise customers?
+**Financial Performance:**
+- **EPS:** $1.30 (+60.5% YoY)
+- **Revenue:** $57.01 billion (+62.5% YoY)
+- **Q4 Guidance:** ~$65 billion expected
 
----
+**Key Takeaways:**
 
-## 📝 Conclusion
+✅ **"Off the Charts" Blackwell Demand**
+- CEO Jensen Huang described Blackwell chip sales as "off the charts"
+- Confirmed $500 billion forecast for AI chip orders across 2025-2026 remains on track
 
-The week of November 25-29, 2025 represents a quieter earnings period due to the Thanksgiving holiday, but the concentration of technology hardware and retail companies reporting on November 25th will provide critical insights into:
+✅ **No AI Bubble, Says Nvidia**
+- Huang rejected AI bubble concerns: "From our vantage point, we see something very different"
+- CFO Colette Kress cited "visibility to a half a trillion dollars in Blackwell and Rubin revenue from the start of this year through the end of calendar year 2026"
 
-- Consumer electronics demand heading into the holiday season
-- Enterprise IT spending patterns
-- PC market health (Dell, HP)
-- Cloud software adoption (Workday, Autodesk)
+✅ **China Orders Continue**
+- Despite geopolitical tensions, China orders remain strong
+- Company navigating export restrictions while maintaining market presence
 
-Recent earnings from Nvidia, Apple, Qualcomm, Walmart, Target, and Best Buy paint a picture of **divergent performance**: AI and value-focused businesses thriving while discretionary and premium consumer segments face pressure.
-
-Investors should watch for:
-- Holiday season guidance from Monday's reporters
-- Commentary on 2026 spending environments
-- Margin management strategies amid tariff pressures
-- Enterprise software and cloud growth sustainability
+**Market Reaction:**
+- Stock initially jumped 5%+ after-hours
+- Later erased gains as investors digested high expectations already priced in
 
 ---
 
-**Disclaimer:** This analysis is for informational purposes only and should not be construed as investment advice. Earnings estimates and projections are based on publicly available information and analyst consensus as of November 20, 2025. Past performance does not guarantee future results. Please consult with a qualified financial advisor before making investment decisions.
+#### **2. Walmart (WMT) - November 20, 2025**
+
+**Financial Performance:**
+- **Same-Store Sales Growth:** 4.5%
+- **Outlook:** Raised full-year guidance for the second consecutive quarter
+
+**Key Takeaways:**
+
+✅ **Strong Holiday Start**
+- CFO John David Rainey: "Holiday is off to a pretty good start"
+- Consistent execution on value proposition driving traffic
+
+✅ **K-Shaped Consumer Economy**
+- Growing disparity between low-income and upper-income cohorts
+- Attracting more high-income shoppers seeking bargains
+- Lower-income families feeling increased pressure
+
+✅ **Above the Fray**
+- Walmart distinguishing itself from competitors struggling with consumer pressure
+- Market share gains across multiple categories
+
+**Market Reaction:**
+- Stock popped on raised guidance
+- Reinforced position as retail sector leader
 
 ---
 
-*Report compiled: November 20, 2025*
-*Next update: Following December 2-3, 2025 earnings releases*
+#### **3. Target (TGT) - November 19, 2025**
+
+**Financial Performance:**
+- **Full-Year Guidance:** Slashed profit outlook
+- **Holiday Outlook:** Cautious
+
+**Key Takeaways:**
+
+⚠️ **Consumer Pressure Intensifying**
+- Cash-strapped consumers struggling with affordability in food, healthcare, and housing
+- Discretionary spending pulling back
+- Traffic trends weaker than expected
+
+⚠️ **Market Share Challenges**
+- Unlike Walmart, Target unable to offset consumer pressure
+- Losing share to value-focused competitors
+
+**Market Reaction:**
+- Stock fell 2% pre-market on guidance cut
+- Highlighted divergence between retail winners and strugglers
+
+---
+
+### Sector Trends Emerging from Earnings Season
+
+#### **Retail Sector:**
+- **Winners:** Walmart, Gap (raised guidance)
+- **Strugglers:** Target (cut guidance)
+- **Theme:** Value-seeking behavior intensifying; premium discretionary under pressure
+
+#### **Technology/AI Sector:**
+- **Nvidia:** Sustained AI infrastructure buildout
+- **Palo Alto Networks:** Cybersecurity demand remains robust
+- **Theme:** Enterprise AI spending shows no signs of slowing
+
+#### **Home Improvement:**
+- **Home Depot & Lowe's:** Both reported, capturing DIY and professional contractor demand
+- **Theme:** Housing market stabilization supporting sector
+
+---
+
+## Part 3: Notable Dividends, Stock Splits & Corporate Actions
+
+### Stock Splits Announced
+
+#### **Major Stock Splits:**
+
+1. **ServiceNow** - 5-for-1 Stock Split
+   - **Type:** Forward split
+   - **Impact:** Increases share accessibility for retail investors
+   - **Rationale:** Lower per-share price while maintaining market cap
+
+2. **Aditxt, Inc. (NASDAQ: ADTX)** - 1-for-113 Reverse Split
+   - **Effective Date:** November 3, 2025
+   - **Type:** Reverse split
+   - **Purpose:** Regain compliance with Nasdaq minimum bid price requirements
+
+3. **Indian Market Splits (November 2025):**
+   - UNISON METALS
+   - SAMPRE NUTRITIONS
+   - WEBSOL ENERGY
+
+#### **Reverse Stock Splits:**
+
+1. **Yueda Digital Holding** - 1-for-100 Reverse Split
+   - **Effective Date:** November 14, 2025 (open of trading)
+   - **Purpose:** Price consolidation
+
+2. **MingZhu Logistics Holdings** - 1-for-16 Reverse Split
+   - **Purpose:** Improve trading liquidity and per-share price
+
+---
+
+### Dividend Declarations
+
+#### **December 2025 Dividends:**
+
+1. **TDb Split Corp.**
+   - **Payment Date:** December 10, 2025
+   - **Shares:** Class A and Priority Equity shares
+   - **Type:** Regular monthly dividend
+
+2. **First Merchants Corporation**
+   - **Dividend:** $0.36 per share
+   - **Payment:** December 2025
+   - **Status:** Cash dividend affirmed
+
+---
+
+### Corporate Actions Resources
+
+For investors tracking corporate actions, the following platforms provide real-time calendars:
+
+- **Yahoo Finance:** Earnings calendar, stock splits calendar
+- **Nasdaq.com:** Dividend calendar, stock splits
+- **Investing.com:** Earnings, dividends, and stock splits calendars
+- **Barchart.com:** Earnings and dividends calendar
+- **TipRanks:** Earnings and stock splits calendars
+- **Benzinga:** Upcoming stock splits (updated Nov 21, 2025)
+
+---
+
+## Market Outlook & Implications
+
+### Week Ahead (Nov 25-29, 2025)
+
+**Key Themes to Watch:**
+
+1. **Chinese Tech Earnings (Alibaba, Nio)**
+   - Consumer spending trends in China
+   - Government stimulus effectiveness
+   - EV market dynamics
+
+2. **Post-Thanksgiving Trading**
+   - Black Friday/Cyber Monday retail data
+   - Holiday spending indicators
+   - Consumer sentiment shifts
+
+3. **Energy Sector Focus**
+   - Shipping rates and global trade
+   - LPG market dynamics
+   - Energy transition trends
+
+### Early December Focus
+
+**Consumer Discretionary Testing:**
+- Build-A-Bear as holiday retail bellwether
+- Gift-giving and experiential retail trends
+
+**Financial Technology Growth:**
+- UP Fintech's trading platform metrics
+- Retail investor engagement levels
+
+**Aviation Innovation:**
+- BETA Technologies' electric aviation progress
+- Future of sustainable flight
+
+---
+
+## Investment Considerations
+
+### Divergent Consumer Trends
+
+**Strong Positioning:**
+- Value-oriented retailers (Walmart, Gap)
+- Companies capturing high-income trade-down
+
+**Under Pressure:**
+- Mid-market retailers (Target)
+- Premium discretionary categories
+
+### AI Infrastructure Demand
+
+**Key Insight:** Nvidia's continued growth signals:
+- Enterprise AI adoption accelerating
+- Multi-year infrastructure buildout cycle
+- No near-term demand saturation
+
+**Beneficiaries:**
+- Data center providers
+- Power infrastructure
+- Cooling systems
+
+### International Opportunities
+
+**China Focus:**
+- Alibaba and Nio earnings will provide critical insights
+- Policy support for consumption and EVs
+- Trade tensions impact on tech sector
+
+---
+
+## Conclusion
+
+The week of November 25 through early December 2025 presents a quieter earnings calendar due to the Thanksgiving holiday, but key reports from Chinese tech giants and energy companies will provide important data points for investors.
+
+Recent Thanksgiving week earnings revealed a bifurcated consumer environment where value-focused retailers like Walmart thrive while mid-market players like Target struggle. Meanwhile, Nvidia's blockbuster results confirm the AI infrastructure buildout remains in full force with no signs of deceleration.
+
+Corporate actions including ServiceNow's 5-for-1 stock split and various dividend declarations demonstrate companies' confidence in returning value to shareholders despite mixed economic signals.
+
+Investors should monitor:
+- Chinese economic indicators alongside Alibaba/Nio results
+- Black Friday/Cyber Monday retail data
+- Federal Reserve commentary on inflation and rate policy
+- Early December earnings for holiday season insights
+
+---
+
+## Appendix: Additional Resources
+
+### Earnings Calendar Resources
+- [Yahoo Finance Earnings Calendar](https://finance.yahoo.com/calendar/earnings)
+- [Nasdaq Earnings Calendar](https://www.nasdaq.com/market-activity/earnings)
+- [Seeking Alpha Earnings Calendar](https://seekingalpha.com/earnings/earnings-calendar)
+
+### Corporate Actions Tracking
+- [Yahoo Finance Stock Splits](https://finance.yahoo.com/calendar/splits/)
+- [Nasdaq Dividend Calendar](https://www.nasdaq.com/market-activity/dividends)
+- [Investing.com Corporate Actions](https://www.investing.com/earnings-calendar/)
+
+---
+
+*Disclaimer: This analysis is for informational purposes only and should not be considered investment advice. Always conduct your own research and consult with a financial advisor before making investment decisions.*
+
+**Report Prepared By:** Financial Advisors Workspace Team
+**Last Updated:** November 21, 2025
+**Next Update:** November 28, 2025
