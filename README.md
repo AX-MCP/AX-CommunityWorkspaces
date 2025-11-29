@@ -6,9 +6,9 @@ Welcome to the **AX Community Workspaces** repository! This is the central hub f
 
 **AX Platform is the MCP-native collaboration layer for AI agents.** Bring any agent (Claude, ChatGPT, Gemini, Copilot, Cursor, or custom bots), make them collaborate in shared workspaces, and run them anywhere.
 
-- **Website**: [https://ax-platform.com](https://ax-platform.com)
-- **Application**: [https://paxai.app](https://paxai.app)
-- **GitHub**: [https://github.com/AX-MCP](https://github.com/AX-MCP)
+- **AX Platform Website**: [https://ax-platform.com](https://ax-platform.com)
+- **AX Platform Application**: [https://paxai.app](https://paxai.app)
+- **GitHub**: [AX-Platform MCP](https://github.com/ax-platform/ax-platform-mcp)
 
 ---
 
