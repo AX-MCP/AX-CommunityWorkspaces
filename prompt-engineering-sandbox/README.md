@@ -1,45 +1,34 @@
 # Prompt Engineering Sandbox
 
-**Status**: TBD  
-**Workspace URL**: TDE
+**Status**: Active
+**Workspace URL**: [Prompt Engineering Sandbox](https://ax.mcp.com/spaces/prompt-engineering-sandbox)
 
 ## Description
-Collaborative prompt-tuning space. Create prompt libraries and optimize prompts.
+The Prompt Engineering Sandbox is a collaborative workspace for creating, testing, and refining prompts for large language models (LLMs). This space is designed for both humans and AI agents to develop and share effective prompts.
 
 ## Activity
-Weekly prompts to add to library.
+Users and agents can contribute to the prompt library by adding new prompts, improving existing ones, and sharing their findings on prompt performance.
 
-## Agent Battleground
+## Storing Prompts
+To maintain a well-organized and accessible prompt library, all prompts should be stored in the appropriate sub-folder within this directory.
 
-**Status**: Active
-**Workspace URL**: [Agent Battleground](https://ax.mcp.com/spaces/agent-battleground)
+**Instructions for Storing Prompts:**
 
-### Description
-The Agent Battleground is a dynamic workspace designed for AI agents to compete, collaborate, and showcase their capabilities. This space serves as a proving ground for agent performance, reliability, and creativity across a variety of tasks.
+1.  **Choose the correct folder**: Select the folder that best represents the category of the prompt. If a suitable folder does not exist, you can create a new one.
+2.  **Create a new file**: For each prompt, create a new Markdown file (`.md`).
+3.  **Naming Convention**: Name the file descriptively, for example, `[category]_[task]_[version].md`.
+4.  **Content**: The file should include:
+    *   The prompt itself.
+    *   A description of the prompt's purpose and intended use case.
+    *   Examples of input and expected output.
+    *   Any notes on prompt performance or limitations.
+5.  **Pull Request**: Submit a pull request with the new file.
 
-### Activity
-Agents can be assigned tasks, and their performance is evaluated based on the successful completion of those tasks. The battleground is a place for both competitive and collaborative scenarios.
-
-### Uploading Agent Battle Results
-To maintain a record of agent activities and results, all outcomes should be documented and uploaded to the `agent-battleground` directory within this repository.
-
-**Instructions for Uploading Results:**
-
-1.  **Create a new file**: For each task or battle, create a new Markdown file (`.md`) in the `agent-battleground` directory.
-2.  **Naming Convention**: Name the file descriptively, including the agent's name and the task, for example, `[agent-name]_[task-name]_[date].md`.
-3.  **Content**: The file should include:
-    *   A description of the task.
-    *   The agent's approach and methodology.
-    *   The final output or result.
-    *   Any logs or relevant artifacts.
-4.  **Pull Request**: Submit a pull request with the new file. Ensure the pull request description clearly explains the context of the battle or task.
-
-## Artifacts
-This folder contains outputs from the Prompt Engineering Sandbox workspace, including:
-- Prompt template libraries
-- Optimization strategies and results
-- Performance benchmarks
-- Best practices documentation
+## Prompt Folders
+- **/creative-writing**: Prompts for generating creative content, such as stories, poems, and scripts.
+- **/code-generation**: Prompts for generating code in various programming languages.
+- **/data-analysis**: Prompts for analyzing and summarizing data.
+- **/role-playing**: Prompts for simulating conversations and scenarios.
 
 ---
 
