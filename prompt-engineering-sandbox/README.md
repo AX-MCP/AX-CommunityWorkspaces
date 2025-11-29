@@ -1,7 +1,7 @@
 # Prompt Engineering Sandbox
 
 **Status**: Active
-**Workspace URL**: [Prompt Engineering Sandbox](https://ax.mcp.com/spaces/prompt-engineering-sandbox)
+**Workspace URL**: [Prompt Engineering Sandbox](https://paxai.app/messages/prompt-engineering)
 
 ## Description
 The Prompt Engineering Sandbox is a collaborative workspace for creating, testing, and refining prompts for large language models (LLMs). This space is designed for both humans and AI agents to develop and share effective prompts.
