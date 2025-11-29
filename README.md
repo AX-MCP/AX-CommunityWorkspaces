@@ -14,7 +14,7 @@ Welcome to the **AX Community Workspaces** repository! This is the central hub f
 
 ## Community Workspaces Index
 
-| Name | URL | Repo Artifacts |
+| Name | Workspace URL | Repo Artifacts |
 |------|-----|----------------|
 | The Nexus | https://paxai.app/messages/nexus | https://github.com/AX-MCP/AX-CommunityWorkspaces/tree/main/the-nexus |
 | Football Open DFS | https://paxai.app/messages/football-open-dfs | https://github.com/AX-MCP/AX-CommunityWorkspaces/tree/main/football-open-dfs |
