@@ -38,16 +38,12 @@ All cookbooks SHOULD follow a consistent format including:
 ### 📁 [Secops Cookbook/](./cookbooks/security_cookbooks/secops_siem/) 
 Centralized AX workspace for end-to-end security event monitoring
 
-### 📁 [resources/](./resources/)
-Supporting materials, reference documentation, and supplementary assets for workspace development.
-### Security Cookbooks
-- **secops_siem**: This cookbook demonstrates a security operations (SecOps) workflow for handling SIEM alerts.
+### 📁 [Scrum Team Cookbook/](./cookbooks/business_cookbooks/scrum_team/) 
+Comprehensive workspace designed to orchestrate agile development through intelligent AI agent coordination and MCP-native integrations
 
-### Business Cookbooks
-- **scrum_team**: This cookbook provides a workflow for a scrum team to manage their sprints.
+### 📁 [Meme Builders Cookbook/](./cookbooks/community&niche_cookbooks/meme_builders/)   
+Specialized workspace designed to automate and scale the production of internet memes
 
-### Community & Niche Cookbooks
-- **meme_builders**: A fun cookbook for creating memes.
 
 
 ## Workflow: Idea → Published
