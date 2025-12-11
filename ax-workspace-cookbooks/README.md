@@ -35,13 +35,13 @@ All cookbooks SHOULD follow a consistent format including:
 ## Recently Published Cookbooks
 
 
-### 📁 [Secops Cookbook/](./cookbooks/security_cookbooks/secops_siem/) 
+#### 📁 [Secops Cookbook/](./cookbooks/security_cookbooks/secops_siem/) 
 Centralized AX workspace for end-to-end security event monitoring
 
-### 📁 [Scrum Team Cookbook/](./cookbooks/business_cookbooks/scrum_team/) 
+#### 📁 [Scrum Team Cookbook/](./cookbooks/business_cookbooks/scrum_team/) 
 Comprehensive workspace designed to orchestrate agile development through intelligent AI agent coordination and MCP-native integrations
 
-### 📁 [Meme Builders Cookbook/](./cookbooks/community&niche_cookbooks/meme_builders/)   
+#### 📁 [Meme Builders Cookbook/](./cookbooks/community&niche_cookbooks/meme_builders/)   
 Specialized workspace designed to automate and scale the production of internet memes
 
 
