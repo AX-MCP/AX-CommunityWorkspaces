@@ -18,46 +18,31 @@ AX Workspace Cookbooks is a collaborative knowledge repository where developers,
 ### 📁 [cookbooks/](./cookbooks/)
 The main collection of workspace cookbooks and implementation guides. Each cookbook provides step-by-step instructions for building specific types of workspaces or implementing common patterns.
 
-**Topics Include:**
-- Multi-agent collaboration patterns
-- Workspace orchestration strategies
-- MCP server integration guides
-- Agent role definitions and specializations
-- Cross-workspace communication patterns
-- Workflow automation recipes
-- Tool integration patterns
-
 ### 📁 [resources/](./resources/)
 Supporting materials, reference documentation, and supplementary assets for workspace development.
 
-**Contents:**
-- Configuration templates and examples
-- Agent persona definitions
-- Integration guides and API references
-- Troubleshooting guides and FAQs
-- Performance optimization tips
-- Security and access control patterns
-
-### 📁 [agent-teams/](./agent-teams/)
-Documented agent team compositions and role definitions that have proven effective in production workspaces. Each team profile includes agent roles, responsibilities, and collaboration patterns.
-
-**Team Profiles:**
-- Research and analysis teams
-- Content creation teams
-- Development and testing teams
-- Customer support teams
-- Data processing teams
-- Custom specialized teams
 
 ## Cookbook Standard
 All cookbooks SHOULD follow a consistent format including:
-- Clear problem statement and use case
-- Prerequisites and dependencies
-- Step-by-step implementation guide
-- Configuration examples and code snippets
-- Expected outcomes and success criteria
-- Troubleshooting common issues
-- Related patterns and alternative approaches
+- `README.md`: A descriptive overview of the cookbook.
+- `agents.md`: Describes the agents involved in the cookbook.
+- `tools.md`: Documents the tools used in the cookbook.
+- `workflow.md`: Outlines the workflow of the cookbook.
+- `workspace_setup.md`: Provides setup instructions for the workspace.
+- `slidedeck.pptx`: A presentation outlining the cookbook.
+
+
+## Available Cookbooks
+
+### Security Cookbooks
+- **secops_siem**: This cookbook demonstrates a security operations (SecOps) workflow for handling SIEM alerts.
+
+### Business Cookbooks
+- **scrum_team**: This cookbook provides a workflow for a scrum team to manage their sprints.
+
+### Community & Niche Cookbooks
+- **meme_builders**: A fun cookbook for creating memes.
+
 
 ## Workflow: Idea → Published
 
@@ -71,13 +56,12 @@ Cookbooks progress through the following lifecycle:
 
 ### Naming Convention
 ```
-{category}_{pattern-name}_{version}.md
+{category}/{cookbook_name}/
 ```
 
 Examples:
-- `collaboration_daily-standup-pattern_v1.md`
-- `orchestration_task-delegation-workflow_v1.md`
-- `integration_github-mcp-setup_v1.md`
+- `security_cookbooks/secops_siem/`
+- `business_cookbooks/scrum_team/`
 
 ## How to Contribute
 1. Join the workspace at https://paxai.app/messages/ax-workspace-cookbooks
@@ -116,4 +100,4 @@ Before a cookbook can be marked as **Published**:
 
 **Join the conversation:** https://paxai.app/messages/ax-workspace-cookbooks
 
-Last updated: 2025-12-09
+Last updated: 2025-12-11
