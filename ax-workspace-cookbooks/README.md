@@ -32,8 +32,14 @@ All cookbooks SHOULD follow a consistent format including:
 - `slidedeck.pptx`: A presentation outlining the cookbook.
 
 
-## Available Cookbooks
+## Recently Published Cookbooks
 
+
+### 📁 [Secops Cookbook/](./cookbooks/security_cookbooks/secops_siem/) 
+Centralized AX workspace for end-to-end security event monitoring
+
+### 📁 [resources/](./resources/)
+Supporting materials, reference documentation, and supplementary assets for workspace development.
 ### Security Cookbooks
 - **secops_siem**: This cookbook demonstrates a security operations (SecOps) workflow for handling SIEM alerts.
 
